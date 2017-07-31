@@ -2,6 +2,25 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+/*
+TODO: API calls (Pokemans)
+
+TODO: Cards with char information
+    Can edit cards
+    can favorite and unfavorite cards
+    save
+
+TODO: Drop down menu with types
+
+TODO: Drag and drop order of cards
+
+TODO: Search bar/ filter
+
+TODO: Pagination (10)
+
+TODO: React routing to page with mini cards (your favorites)
+*/
+
 class App extends Component {
   render() {
     return (
